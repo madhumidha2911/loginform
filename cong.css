@@ -1,0 +1,28 @@
+body{
+	font-family: Brush Script MT,cursive;
+	font-size: 20px;
+	color: #fff;
+	background-image: url('https://wallup.net/wp-content/uploads/2017/11/23/430250-technology-laptop-keyboards-748x421.jpg');
+	background-size: cover;
+}
+a{
+	color: yellow;
+	font-family: Lucida Calligraphy,cursive;
+	font-size: 15px;
+	margin-left: 30px;
+}
+.cong
+{
+	background: rgba(44,62,80,0.7);
+	padding: 100px;
+	margin-top: 80px;
+	height: 200px;
+	margin-left: 280px;
+	margin: 0 auto;
+	margin-top: 120px;
+	width: 240px;
+}
+h2{
+	margin-top: 50px;
+	margin-left: 10px;
+}
